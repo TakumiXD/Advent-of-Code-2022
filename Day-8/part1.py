@@ -1,5 +1,3 @@
-from collections import defaultdict
-
 with open("input.txt", "r") as f:
     inputs = f.read().splitlines()
 
