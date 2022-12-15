@@ -15,12 +15,17 @@ over
 ``  
 
 ### Day 11
-Learned  
+Learned how to get the lcm of all elements of a list  
 ``
 lcmOfList = lcm(*List)
 ``  
 Couldn't figure out the lcm trick on my own for part 2.  
 Found the hint on Reddit. 
 
-### Day 12
-BFS
+### Day 12  
+BFS  
+
+### Day 13  
+Learned ``json.loads(x)``  
+Got stuck on the sorting but got a GENIUS hint from reddit that sorting is not necessary.  
+  
