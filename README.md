@@ -7,7 +7,7 @@ Needed to look on Reddit for help.
 ### Day 8
 Learned to use  
 ``
-2DArray = [ [ -1 for i in range(COL) ] for j in range(ROW) ]  
+2DArray = [ [ -1 for j in range(COL) ] for i in range(ROW) ]  
 ``  
 over  
 ``
@@ -21,3 +21,6 @@ lcmOfList = lcm(*List)
 ``  
 Couldn't figure out the lcm trick on my own for part 2.  
 Found the hint on Reddit. 
+
+### Day 12
+BFS
