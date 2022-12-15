@@ -7,6 +7,17 @@ https://www.reddit.com/r/adventofcode/comments/zesk40/2022_day_7_solutions/
 
 ### Day 8
 Learned to use  
+``python
 2DArray = [ [ -1 for i in range(COL) ] for j in range(ROW) ]  
+``  
 over  
+``python
 2DArray = [ [ -1 ] * COL ] * ROW
+``  
+
+### Day 11
+Learned
+``python
+lcmOfList = lcm(*List)
+``  
+Couldn't figure out the lcm trick on my own for part 2  
