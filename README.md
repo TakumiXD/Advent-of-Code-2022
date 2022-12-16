@@ -29,3 +29,5 @@ BFS
 Learned ``json.loads(x)``  
 Got stuck on the sorting but got a GENIUS hint from reddit that sorting is not necessary.  
   
+### Day 14
+Learned zip()
