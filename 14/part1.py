@@ -15,11 +15,11 @@ with open("input.txt", "r") as f:
             fst2, snd2 = pair2
             abyssY = max(snd1, snd2, abyssY)
     
-            for x in range(min(fst1, fst2), max(fst1, fst2) + 1):
-                cave.add((x, snd1))
+            for i in range(min(fst1, fst2), max(fst1, fst2) + 1):
+                cave.add((i, snd1))
     
-            for y in range(min(snd1, snd2), max(snd1, snd2) + 1):
-                cave.add((fst1, y))
+            for i in range(min(snd1, snd2), max(snd1, snd2) + 1):
+                cave.add((fst1, i))
     abyssY = abyssY + 2
 
     def drop(coord):
