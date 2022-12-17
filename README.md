@@ -30,4 +30,9 @@ Learned ``json.loads(x)``
 Got stuck on the sorting but got a GENIUS hint from reddit that sorting is not necessary.  
   
 ### Day 14
-Learned zip()
+Learned ``zip()``
+
+### Day 15  
+Found a really good stack overflow post for basic regex  
+https://stackoverflow.com/questions/15814592/how-do-i-include-negative-decimal-numbers-in-this-regular-expression  
+Part 2 runs in ~38 seconds  
