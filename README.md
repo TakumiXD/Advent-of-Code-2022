@@ -33,6 +33,12 @@ Got stuck on the sorting but got a GENIUS hint from reddit that sorting is not n
 Learned ``zip()``
 
 ### Day 15  
-Found a really good stack overflow post for basic regex  
-https://stackoverflow.com/questions/15814592/how-do-i-include-negative-decimal-numbers-in-this-regular-expression  
+Found a good [stack overflow post](https://stackoverflow.com/questions/15814592/how-do-i-include-negative-decimal-numbers-in-this-regular-expression) for basic regex   
 Part 2 runs in ~38 seconds  
+
+### Day 16  
+Was able to get the right answer for small inputs but really struggled optimizing the DFS. I had to give up and completely look up the solution, but I learned many things.  
+[Video](https://www.youtube.com/watch?v=w9Sk7lvyGZI) I used for the solution.  
+In DP, because you can't memoize sets, so use bit masking to memoize them.  
+Use BFS to optimize and convert an unweighted graph into a weighted graph.  
+The bottom of part 2 is really clever and should be reviewed.  
