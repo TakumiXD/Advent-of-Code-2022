@@ -42,3 +42,7 @@ Was able to get the right answer for small inputs but really struggled optimizin
 In DP, because you can't memoize sets, so use bit masking to memoize them.  
 Use BFS to optimize and convert an unweighted graph into a weighted graph.  
 The bottom of part 2 is really clever and should be reviewed.  
+
+### Day 17
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA "ONLY" TOOK ME A LITTLE OVER 9 HOURS BUT I SURVIVED  
+Got the caching hint for part 2 from Reddit. When will be the next day I solve a puzzle on my own :(  
