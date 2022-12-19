@@ -34,7 +34,7 @@ Learned ``zip()``
 
 ### Day 15  
 Found a good [stack overflow post](https://stackoverflow.com/questions/15814592/how-do-i-include-negative-decimal-numbers-in-this-regular-expression) for basic regex   
-Part 2 runs in ~38 seconds  
+Part 2 runs in ~38 seconds and I don't think I'm capable of optimizing it more unfortunately... 
 
 ### Day 16  
 Was able to get the right answer for small inputs but really struggled optimizing the DFS. I had to give up and completely look up the solution, but I learned many things.  
@@ -46,3 +46,7 @@ The bottom of part 2 is really clever and should be reviewed.
 ### Day 17
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA "ONLY" TOOK ME A LITTLE OVER 9 HOURS BUT I SURVIVED  
 Got the caching hint for part 2 from Reddit.  
+
+### Day 19  
+It's optimized enough for Part 1 to run in ~26 seconds and Part 2 to run in ~4 minutes 20 seconds.  
+I will optimize it more later...
