@@ -48,5 +48,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA "ONLY" TOOK ME A LITTLE OVER 
 Got the caching hint for part 2 from Reddit.  
 
 ### Day 19  
-It's optimized enough for Part 1 to run in ~26 seconds and Part 2 to run in ~4 minutes 20 seconds.  
-I will optimize it more later...
+DFS  
+I got the optimization down to ~21s for part1 and ~1m 21s for part2.
+It's not good, but that's all I can do...  
+
