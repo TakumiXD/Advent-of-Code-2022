@@ -45,4 +45,4 @@ The bottom of part 2 is really clever and should be reviewed.
 
 ### Day 17
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA "ONLY" TOOK ME A LITTLE OVER 9 HOURS BUT I SURVIVED  
-Got the caching hint for part 2 from Reddit. When will be the next day I solve a puzzle on my own :(  
+Got the caching hint for part 2 from Reddit.  
