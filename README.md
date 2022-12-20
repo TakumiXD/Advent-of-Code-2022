@@ -52,3 +52,6 @@ DFS
 I got the optimization down to ~21s for part1 and ~1m 21s for part2.
 It's not good, but that's all I can do...  
 
+### Day 20
+Took me a very long time to debug because I didn't realize I should subtract 1 from the size of the input file.  
+My solution takes O(n^2) time and it could be optimized down to O(n) by using a linked list, but I spent too much time on my initial approach.  
