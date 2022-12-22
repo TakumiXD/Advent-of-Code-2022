@@ -15,6 +15,7 @@ over
 ``  
 
 ### Day 11
+Got good practice with lambda functions. 
 Learned how to get the lcm of all elements of a list  
 ``
 lcmOfList = lcm(*List)
@@ -55,3 +56,7 @@ It's not good, but that's all I can do...
 ### Day 20
 Took me a very long time to debug because I didn't realize I should subtract 1 from the size of the input file.  
 My solution takes O(n^2) time and it could be optimized down to O(n) by using a linked list, but I spent too much time on my initial approach.  
+
+### Day 21  
+Was able to finish relatively quickly due to practice with lambda functions on Day 11.  
+Part 2 could have been simplified with sympy but I decided to just use the operator library. 
