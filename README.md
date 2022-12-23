@@ -59,4 +59,4 @@ My solution takes O(n^2) time and it could be optimized down to O(n) by using a 
 
 ### Day 21  
 Was able to finish relatively quickly due to practice with lambda functions on Day 11.  
-Part 2 could have been simplified with sympy but I decided to just use the operator library. 
+Part 2 could have been simplified with sympy but I decided to just use the operator library.  
