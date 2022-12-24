@@ -63,3 +63,6 @@ Part 2 could have been simplified with sympy but I decided to just use the opera
 
 ### Day 23  
 I could have simplified the code by making the helper functions shorter instead of explicit definitions.   
+
+### Day 24  
+BFS
