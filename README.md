@@ -45,7 +45,7 @@ Use BFS to optimize and convert an unweighted graph into a weighted graph.
 The bottom of part 2 is really clever and should be reviewed.  
 
 ### Day 17
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA "ONLY" TOOK ME A LITTLE OVER 9 HOURS BUT I SURVIVED  
+Took me the longest time so far.    
 Got the caching hint for part 2 from Reddit.  
 
 ### Day 19  
@@ -60,3 +60,6 @@ My solution takes O(n^2) time and it could be optimized down to O(n) by using a 
 ### Day 21  
 Was able to finish relatively quickly due to practice with lambda functions on Day 11.  
 Part 2 could have been simplified with sympy but I decided to just use the operator library.  
+
+### Day 23  
+I could have simplified the code by making the helper functions shorter instead of explicit definitions.   
