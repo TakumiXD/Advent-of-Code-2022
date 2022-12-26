@@ -66,3 +66,6 @@ I could have simplified the code by making the helper functions shorter instead 
 
 ### Day 24  
 BFS
+
+### Day 25  
+![Fin](img/AOC2022jpg.PNG)
